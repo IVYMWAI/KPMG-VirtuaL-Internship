@@ -1,0 +1,14 @@
+Subject: KPMG Virtual Internship Job Simulation - Data Quality Issues and Mitigation Strategies
+Hello,
+I trust this email finds you well.
+Following the voicemail sent to our analytics team, we have carefully reviewed the datasets you provided. Here are the key takeaways:
+•	The datasets consist of three tables:
+Customer Address: 12 columns
+Transactions Data: 12 columns
+Customer Demographic: 11 columns
+•	There is a relationship among the three tables, with all tables containing a Customer ID column.
+•	Inconsistencies appear to exist, likely resulting from data entry issues.
+•	Some columns contain rows with missing values.
+Moving forward, the analytics team will address the data cleaning process before proceeding to the analysis phase.
+Best regards,
+ Ivy Mwai
